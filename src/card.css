@@ -1,0 +1,25 @@
+
+
+.cardCon {
+width: 100%;
+ 
+    display: flex;
+	flex-direction: row;
+    flex-wrap: wrap;
+    margin-top:20px;
+    justify-content: center;
+}
+
+.cardConf {
+    width: 300px;
+    border: 1px solid;
+    background-color:#dfe3ee;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    }
+
+.imgs {
+    margin-top: 20px;
+   width: 150px;
+}
+
